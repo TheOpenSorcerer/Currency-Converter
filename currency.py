@@ -9,7 +9,8 @@ Author: Brantley G. Gusler
 Date:   1/19/2022
 """
 import introcs
-APIKEY = 'j3mgT7zZhEaL0gKVtOHSpX1J9x1LspFwTvp4cizJ0ZIe'
+#enter API key here:
+APIKEY = ''
 
 
 def before_space(s):

@@ -1,1 +1,1 @@
-# Currency-Converter
+This application uses a publicly avaliable API to query a webservice and convert any amount of one currency to another currency. All that is required is to obtain a user specific API key to run the program on a web service or local machine with an internet connection. 
